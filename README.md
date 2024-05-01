@@ -1,4 +1,4 @@
-Program sederhana yang menghitung luas dan keliling dari dua bentuk geometri yaitu persegi 
+Program sederhana menghitung luas dan keliling dari dua bentuk geometri yaitu persegi 
 panjang dan segitiga.
 
 **1.Interface BentukGeometri****
