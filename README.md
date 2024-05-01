@@ -10,9 +10,9 @@ datar.
 
 o Mewarisi interface BentukGeometri.
 
-o Memiliki atribut panjang dan lebar.
+o Memiliki atribut panjang dan lebar untuk menyimpan informasi dimensi dasar bangun datar.
 
-o Menyediakan method getter/setter untuk panjang dan lebar.
+o Memiliki method getter/setter untuk panjang dan lebar.
 
 o Memiliki method abstrak hitungLuas().
 
