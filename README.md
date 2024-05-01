@@ -1,11 +1,12 @@
 Program sederhana yang menghitung luas dan keliling dari dua bentuk geometri yaitu persegi 
 panjang dan segitiga.
 
-• Interface BentukGeometri
+**1.Interface BentukGeometri****
+
 Mendefinisikan method abstrak hitungLuas() dan hitungKeliling() untuk bangun 
 datar.
 
-• Kelas Abstrak Bangunan
+**2.Kelas Abstrak Bangunan****
 
 o Mewarisi interface BentukGeometri.
 
@@ -17,13 +18,13 @@ o Memiliki method abstrak hitungLuas().
 
 o Mengimplementasikan method hitungKeliling().
 
-• Kelas PersegiPanjang dan Segitiga
+**3.Kelas PersegiPanjang dan Segitiga**
 
 o Mewarisi kelas Bangunan.
 
 o Memiliki konstruktor dan method hitungLuas() spesifik.
 
-• Kelas Main
+**6. Kelas Main**
 
 o Membuat objek PersegiPanjang dan Segitiga.
 
