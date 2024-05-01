@@ -30,4 +30,6 @@ o Membuat objek PersegiPanjang dan Segitiga.
 
 o Menampilkan informasi luas dan keliling
 
+Berikut adalah Output dari Program : 
+
 ![Cuplikan layar 2024-04-30 225927](https://github.com/Adipurnama7/Menghitung-luas-dan-keliling-dari-dua-bentuk-geometri/assets/121074868/c69d007d-03f0-4950-bcc2-a126d6db1524)
